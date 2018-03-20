@@ -1,4 +1,4 @@
-# React Native Material Design TextInput
+# React Native Material Design TextInput - edited for new versions react native(pro-types error)
 
 React Native TextInput styled with Material Design.
 
